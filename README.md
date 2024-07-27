@@ -1,16 +1,13 @@
-## Hi there 👋
+## Oi! Seja bem-vindo! Eu sou a AnaDuarteS
 
-<!--
-**AnaDuarteS/AnaDuarteS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho com Suporte de TI
+- 🌱 Estou estudando Arquitetura em Nuvem
+- 📫 Contate-me no email: anacrisduartesantos20@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://github.com/AnaDuarteS">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AnaDuarteS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
